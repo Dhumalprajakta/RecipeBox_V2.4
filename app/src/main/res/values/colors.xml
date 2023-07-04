@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d49e15</color>
+    <color name="colorPrimaryDark">#A37910</color>
+    <color name="colorAccent">#A37910</color>
+
+    <color name="bg">#F9F9F9</color>
+    <color name="share_section_bg">#EFEFEF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_light">#c8c8c8</color>
+    <color name="button_google_line_login">#EA4235</color>
+    <color name="button_fb_line_login">#3B5999</color>
+    <color name="black">#343434</color>
+    <color name="orange">#d49e15</color>
+    <color name="green">#4FAD11</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#686868</color>
+    <color name="gray_light">#616161</color>
+
+
+    <color name="line_color">#EBEBEB</color>
+    <color name="search_bg">#ffffff</color>
+    <color name="gray_line">#ffffff</color>
+    <color name="navigation_default">#666666</color>
+    <color name="navigation_checked">#d49e15</color>
+    <color name="profile_text">#AEAEAE</color>
+
+    <color name="switch_activated">#d49e15</color>
+    <color name="switch_normal">#888D9F</color>
+
+    <color name="about_title">#424242</color>
+    <color name="about_text">#8b8b8b</color>
+
+    <color name="dialog_color">#d49e15</color>
+    <color name="dialog_text">#424242</color>
+    <color name="dialog_white_text">#FFFFFF</color>
+
+    <color name="rate_dialog_header">#d49e15</color>
+    <color name="review_dialog_header">#d49e15</color>
+    <color name="review_bg">#F2F2F2</color>
+    <color name="review_list_bg_1">#E5E5E5</color>
+    <color name="review_list_bg_2">#F2F2F2</color>
+
+</resources>

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "990209131721",
+    "firebase_url": "https://videoconferencea-1593679222857.firebaseio.com",
+    "project_id": "videoconferencea-1593679222857",
+    "storage_bucket": "videoconferencea-1593679222857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:46e38c7722b156b875b918",
+        "android_client_info": {
+          "package_name": "com.example.recipebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-u1aqag2ih9ot3nv0a96m4hohli86n6ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipebox",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:5a575e6279405de075b918",
+        "android_client_info": {
+          "package_name": "com.example.videomeetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-aucvfk45b2hg9t12qtqhgf6t6e7cj0sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videomeetingapp",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
